@@ -3,8 +3,7 @@
 Takım 155
 
 # Takım Üyeleri
-Ömer Faruk Erkoç: Scrum Master
-
+Ömer Faruk Erkoç: Scrum Master\n
 Reyhan Yürük: Product Owner
 
 Aleyna Demirtaş: Developer
