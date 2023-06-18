@@ -81,3 +81,30 @@ Versiyon: 2:
 ![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/a5add7e1-f141-43e0-bc17-c141e7972945)
 
 
+# Sprint Review
+
+Sprint Review: Alınan kararlar:Konsept Görsellerin oluşturulması
+
+-Oyunun hikayesinin oluşturulması
+
+-Oyun mekaniklerinin unityde oluşturulması ve test edilmesi
+
+-Oyunun giriş animasyonunun taslağının hazırlanması
+
+-Telefon mekaniğinin unityde çalıştırılması
+
+-Telefon giriş ekranının hazırlanması
+
+-Telefonda uygulamalar arası geçiş mekaniğinin oluşturulması
+
+-Uygulama içinde gezerken scroll mekaniğinin entegre edilmiş olması. 
+
+Sprint Review katılımcıları: Aleyna Demirtaş, Eren Can Metin, Reyhan Yürük, Ömer Faruk Erkoç
+
+# Sprint Retrospective
+
+Roller ile ilgili düzenleme yapılmış, Product Owner değişmiştir.
+
+Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+
+
