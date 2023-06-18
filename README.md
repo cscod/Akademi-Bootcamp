@@ -41,6 +41,9 @@ Bulmacalar ve İpuçları: Oyunda, hikayenin ilerlemesini sağlamak için bazı 
 
 Gerçekçi Simülasyon: FinD, gerçek bir telefonda gezinme deneyimini simüle eder. Oyuncu, telefon arayüzüne benzer bir şekilde farklı uygulamaları kullanabilir, mesajlaşmaları okuyabilir, görsellere bakabilir ve sosyal medya hesaplarına erişebilir.
 
+## Hedef Kitle:
+Gizem, macera ve bulmaca oyunları oynamayı seven, 15 yaşından büyük insanlar.
+
 # Sprint 1
 **Sprint içinde tamamlanması gereken puan**: 170
 
@@ -60,4 +63,20 @@ Fotoğraf 2: ![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/
 
 
 ![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/58f2f87f-e331-4004-920e-15a66d52439f)
+
+## Ürün Durumu:
+
+Giriş animasyonunda kullanıcak görsellerin bir kısmı:
+
+
+Telefonun Unitye implemente edilmiş hali:
+![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/351f0a62-287c-498c-b325-185d537c10fa)
+
+Versiyon 1:
+![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/20569447-bf97-48a7-9f21-24bfda58b7a9)
+
+
+Versiyon: 2:
+![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/a5add7e1-f141-43e0-bc17-c141e7972945)
+
 
