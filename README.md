@@ -5,14 +5,17 @@ Takım 155
 # Takım Üyeleri
 Ömer Faruk Erkoç: Scrum Master
 
-Reyhan Yürük: Product Owner
+Reyhan Yürük: Developer
 
-Aleyna Demirtaş: Developer
+Aleyna Demirtaş: Product Owner
 
 EREN CAN METİN: Developer
 
-Züleyha Şen: Developer
+Züleyha Şen: Pasif Üye
 
-![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/b1610532-1f1e-4b65-88ea-73ccc4908bda)
+
+#Ürün İsmi
+FinD
+
 
 
