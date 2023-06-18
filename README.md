@@ -40,13 +40,15 @@ Bulmacalar ve İpuçları: Oyunda, hikayenin ilerlemesini sağlamak için bazı 
 Gerçekçi Simülasyon: FinD, gerçek bir telefonda gezinme deneyimini simüle eder. Oyuncu, telefon arayüzüne benzer bir şekilde farklı uygulamaları kullanabilir, mesajlaşmaları okuyabilir, görsellere bakabilir ve sosyal medya hesaplarına erişebilir.
 
 # Sprint 1
-Sprint içinde tamamlanması gereken puan: 170
-Sprint içinde tamamlanan puan: 170
+**Sprint içinde tamamlanması gereken puan**: 170
+**Sprint içinde tamamlanan puan**: 170
 
-Puan Tamamlama Mantığı: Toplamda proje boyunca tamamlanması gereken 540 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 170 ile başlaması gerektiğine karar verildi.
+**Puan Tamamlama Mantığı**: Toplamda proje boyunca tamamlanması gereken 540 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 170 ile başlaması gerektiğine karar verildi.
 
-Daily Scrum: 2 günde bir discord üzerinden yapılmasına karar verildi:
+**Daily Scrum**: 2 günde bir discord üzerinden yapılmasına karar verildi:
+
 Fotoğraf 1: ![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/06af5191-b363-4b3f-aeec-17d32cff7850)
+
 Fotoğraf 2: ![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/d5418c33-1acc-48f8-99bc-b1317404dd25)
 
 
