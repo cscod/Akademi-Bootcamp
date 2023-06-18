@@ -22,7 +22,7 @@ https://trello.com/b/DJi6HChq/bootcamp
 
 
 # Ürün Açıklaması
-```
+
 Oyununun türü: Dedektif, Gizem, Macera, Simülasyon, Bulmaca
 Oyun zengin hikayeye sahip bir çok merak unsuru ve bulmacalara yer veren "dedektiflik/gizem" oyunu olarak değerlendirilebilir.
 Oyunun hikayesi, ana karakterimizin yakından tanıdığı D isimli gazetecinin kaçırılması ve arkasında sadece telefonunu bırakması ile başlar. Oyuncu, telefonu araştırarak, metin mesajları, fotoğraflar ve diğer dijital içerikler aracılığıyla D’nin hayatını keşfeder. Ancak, daha derinlere indikçe, oyuncu bir dizi gizemli olayla karşılaşır. Bu gizem perdesini aralayarak arkadaşının başına ne geldiğini bulmalı ve arkadaşını kurtarmalıdır.
@@ -30,8 +30,6 @@ FinD'ın özelliklerinden biri, tamamen telefon arayüzüne dayanmasıdır. Oyun
 
 Arkadaşını kurtarmayı başarabilecek misin? Yoksa sende gizemler arasında yerini mi alacaksın?
 
-
-```
 
 ## Ürün Özellikleri
 
