@@ -36,6 +36,7 @@ Arkadaşını kurtarmayı başarabilecek misin? Yoksa sende gizemler arasında y
 ## Ürün Özellikleri
 
 Telefon Arayüzü: Oyun, tamamen telefon arayüzüne dayanır. Oyuncu, D’in telefonunda gezinerek, metin mesajlarını okuyabilir, fotoğrafları inceleyebilir ve diğer uygulamalara erişebilir.
+
 Bulmacalar ve İpuçları: Oyunda, hikayenin ilerlemesini sağlamak için bazı bulmacalar ve ipuçları bulunur. Oyuncunun doğru bilgilere ulaşması ve gizemleri çözebilmesi için bu bulmacaları çözmesi gerekebilir.
 
 
