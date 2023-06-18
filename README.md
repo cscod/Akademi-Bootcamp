@@ -14,8 +14,11 @@ EREN CAN METİN: Developer
 Züleyha Şen: Pasif Üye
 
 
-#Ürün İsmi
+# Ürün İsmi
 FinD
+
+# Product Backlog URL
+https://trello.com/b/DJi6HChq/bootcamp
 
 
 
