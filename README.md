@@ -122,6 +122,11 @@ Görseller:
 
 ![Kayıtlar](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/ff86c5d5-7321-42db-ba7f-d049b49a995b)
 
+![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/2e582e7c-62f9-4745-ba0d-7b8a60fdfafa)
+
+
+
+
 Sprint Board: https://trello.com/b/FXkxbaS4/sprint-2
 ![Sprint22](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/efcc11d5-cb73-4dad-8324-f25f79b28ba7)
 
