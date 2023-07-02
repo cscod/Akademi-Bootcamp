@@ -118,7 +118,8 @@ Görseller:
 ![Kayıtlar](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/ff86c5d5-7321-42db-ba7f-d049b49a995b)
 
 
-![Sprint 2](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/ee778f7d-a1e3-4fdc-b5fd-1bee3301ee3f)
+![Sprint22](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/efcc11d5-cb73-4dad-8324-f25f79b28ba7)
+
 
 
 
