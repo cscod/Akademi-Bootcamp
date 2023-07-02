@@ -101,12 +101,12 @@ Sprint Review: Alınan kararlar:Konsept Görsellerin oluşturulması
 
 Sprint Review katılımcıları: Aleyna Demirtaş, Eren Can Metin, Reyhan Yürük, Ömer Faruk Erkoç
 
-# Sprint Retrospective
+## Sprint Retrospective
 
 Roller ile ilgili düzenleme yapılmış, Product Owner değişmiştir.
 
 
-#Sprint 2
+# Sprint 2
 Tamamlanması gereken puan 170.
 Tamamlanan puan 170.
 
