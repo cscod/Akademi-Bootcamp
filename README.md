@@ -107,19 +107,65 @@ Roller ile ilgili düzenleme yapılmış, Product Owner değişmiştir.
 
 
 # Sprint 2
+
 Tamamlanması gereken puan 170.
+
 Tamamlanan puan 170.
 
+**Daily Scrum**: 2 günde bir discord üzerinden yapılmasına karar verildi:
 
 
 Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+
 Görseller:
 
 ![Kayıtlar](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/ff86c5d5-7321-42db-ba7f-d049b49a995b)
 
-
+Sprint Board: https://trello.com/b/FXkxbaS4/sprint-2
 ![Sprint22](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/efcc11d5-cb73-4dad-8324-f25f79b28ba7)
 
+Çeşitli Ürün Görselleri:
+
+![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/c254ac10-bf48-4acc-b815-881bc46c533f)
+
+
+![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/08716345-99ac-441d-a848-a2c266cc8493)
+
+
+![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/863bdc2a-35f8-4513-b938-6c96f20bcd3b)
+
+
+![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/4300fc98-42f9-4a91-8467-39c90f857483)
+
+
+![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/08ab1e3c-80a2-45e7-b560-c6238c4ce21f)
+
+![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/1fc11785-977d-411d-829d-63378c7d5018)
+
+
+
+## Sprint Review
+-3 boyutlu dünyanın oluşturulması
+
+-Senaryo ve hikâyede ince detayların netleştirilmesi (Olay akışının adım adım netleşmesi)
+
+-Uygulamalar arası geçiş sisteminde panel sistemine geçiş yapılması
+
+-Hareket scriptlerinin yazılması
+
+-Örnek WhatsApp konuşmalarının ve sosyal medya metinlerinin hazırlanması
+
+-Örnek bulmacaların belirlenmesi
+
+-Kullanılacak örnek assetlerin belirlenmesi ve oluşturulması
+
+-Uygulama içi tasarımların ve logoların oluşturulması
+
+-2 boyutlu telefonun interaktif hale getirilmesi
+
+## Sprint Retrospective
+
+-Sonraki sprintte daha yoğun çalışılmasına karar verildi.
 
 
 
