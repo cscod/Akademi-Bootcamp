@@ -105,6 +105,7 @@ Sprint Review katılımcıları: Aleyna Demirtaş, Eren Can Metin, Reyhan Yürü
 
 Roller ile ilgili düzenleme yapılmış, Product Owner değişmiştir.
 
+----------------------------------------------------------------------------------------------------------------
 
 # Sprint 2
 
