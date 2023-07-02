@@ -105,6 +105,16 @@ Sprint Review katılımcıları: Aleyna Demirtaş, Eren Can Metin, Reyhan Yürü
 
 Roller ile ilgili düzenleme yapılmış, Product Owner değişmiştir.
 
+
+#Sprint 2
+Tamamlanması gereken puan 170.
+Tamamlanan puan 170.
+
+
+
 Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+
+![Kayıtlar](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/ff86c5d5-7321-42db-ba7f-d049b49a995b)
+
 
 
