@@ -126,21 +126,27 @@ Sprint Board: https://trello.com/b/FXkxbaS4/sprint-2
 
 Çeşitli Ürün Görselleri:
 
-![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/c254ac10-bf48-4acc-b815-881bc46c533f)
+![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/1ee519ae-bc65-44eb-a99a-74c99c8b4c48)
 
 
-![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/08716345-99ac-441d-a848-a2c266cc8493)
+
+![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/e51e2d8e-13cc-4a35-84c4-6b12062ec45e)
 
 
-![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/863bdc2a-35f8-4513-b938-6c96f20bcd3b)
+
+![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/e40562b0-3400-43f5-81a6-6127e81c39e3)
 
 
-![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/4300fc98-42f9-4a91-8467-39c90f857483)
+
+![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/d176f17a-b6c7-447c-9677-0d968925b86a)
 
 
-![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/08ab1e3c-80a2-45e7-b560-c6238c4ce21f)
 
-![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/1fc11785-977d-411d-829d-63378c7d5018)
+![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/14334046-7224-4baf-aedf-b2275aeafab3)
+
+
+![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/4883273a-2798-485f-8745-c17a7e512f7a)
+
 
 
 
