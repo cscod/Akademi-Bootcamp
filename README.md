@@ -3,11 +3,11 @@
 Takım 155
 
 # Takım Üyeleri
-Ömer Faruk Erkoç: Scrum Master
+Ömer Faruk Erkoç: Product Owner
 
 Reyhan Yürük: Developer
 
-Aleyna Demirtaş: Product Owner
+Aleyna Demirtaş: Scrum Master
 
 EREN CAN METİN: Developer
 
@@ -26,21 +26,22 @@ https://trello.com/b/DJi6HChq/bootcamp
 Oyununun türü: Dedektif, Gizem, Macera, Simülasyon, Bulmaca
 Oyun zengin hikayeye sahip bir çok merak unsuru ve bulmacalara yer veren "dedektiflik/gizem" oyunu olarak değerlendirilebilir.
 
-Oyunun hikayesi, ana karakterimizin yakından tanıdığı D isimli gazetecinin kaçırılması ve arkasında sadece telefonunu bırakması ile başlar. Oyuncu, telefonu araştırarak, metin mesajları, fotoğraflar ve diğer dijital içerikler aracılığıyla D’nin hayatını keşfeder. Ancak, daha derinlere indikçe, oyuncu bir dizi gizemli olayla karşılaşır. Bu gizem perdesini aralayarak arkadaşının başına ne geldiğini bulmalı ve arkadaşını kurtarmalıdır.
+Oyunun hikayesi, ana karakterimizin komşusu olan Denise isimli gazetecinin kaçırılması ve arkasında sadece telefonunu bırakması ile başlar. Oyuncu, Denise'in telefonunu araştırarak metin mesajları, fotoğraflar ve diğer dijital içerikler aracılığıyla Denise’in hayatını keşfeder. Aynı zamanda Denise'in evinde vakit geçirirken çeşitli bulmacaları çözmek zorundadır. Oyuncu araştırmalar yaparken bir dizi gizemli olayla karşılaşır. Bu gizem perdesini aralayarak arkadaşının başına ne geldiğini bulmalı ve arkadaşını kurtarmalıdır. Oyun 4 farklı sona sahiptir. Oyuncunun bulmaca çözme konusundaki yeteneği hangi son ile karşılacağını belirleyen faktör olacaktır.
 
-FinD'ın özelliklerinden biri, tamamen telefon arayüzüne dayanmasıdır. Oyuncu, kişinin telefonunda gezinirken farklı uygulamaları kullanabilir, mesajlaşmaları okuyabilir ve hatta sosyal medya hesaplarına erişebilir. Bu, oyunu gerçek bir telefona göz atma deneyimine benzetir.
+FinD'ın temel özelliği, bir dizi sıralı bulmaca sistemine sahip olmasıdır. Oyuncu edindiği bilgiler ışığında hem telefonun içinde hem 3D dünyada çeşitli bulmacaları çözmelidir.
 
 Arkadaşını kurtarmayı başarabilecek misin? Yoksa sende gizemler arasında yerini mi alacaksın?
 
 
 ## Ürün Özellikleri
 
-Telefon Arayüzü: Oyun, tamamen telefon arayüzüne dayanır. Oyuncu, D’in telefonunda gezinerek, metin mesajlarını okuyabilir, fotoğrafları inceleyebilir ve diğer uygulamalara erişebilir.
+Telefon Arayüzü: Oyun, telefon arayüzüne ve 3D etkileşimli bir eve dayanır. Oyuncu, Denise’in telefonunda gezinerek, metin mesajlarını okuyabilir, fotoğrafları inceleyebilir ve diğer uygulamalara erişebilir.
 
-Bulmacalar ve İpuçları: Oyunda, hikayenin ilerlemesini sağlamak için bazı bulmacalar ve ipuçları bulunur. Oyuncunun doğru bilgilere ulaşması ve gizemleri çözebilmesi için bu bulmacaları çözmesi gerekebilir.
+3D World: Denise'in evini temsil eden bir ev. Evde çeşitli bulmacalar ve etkileşime girilebilecek nesneler bulunmaktır.
 
+Bulmacalar ve İpuçları: Oyunda, hikayenin ilerlemesini sağlamak için bazı bulmacalar ve ipuçları bulunur. Oyuncunun doğru bilgilere ulaşması ve gizemleri çözebilmesi için bu bulmacaları çözmesi gerekir. Oyuncunun bu konudaki başarısı oyunun 4 farklı sonundan hangisine ulaşacağını belirleyecektir.
 
-Gerçekçi Simülasyon: FinD, gerçek bir telefonda gezinme deneyimini simüle eder. Oyuncu, telefon arayüzüne benzer bir şekilde farklı uygulamaları kullanabilir, mesajlaşmaları okuyabilir, görsellere bakabilir ve sosyal medya hesaplarına erişebilir.
+Gerçekçi Simülasyon: FinD, gerçek bir telefonda gezinme deneyimini simüle eder. Oyuncu, telefon arayüzüne benzer bir şekilde farklı uygulamaları kullanabilir, mesajlaşmaları okuyabilir, görsellere bakabilir ve sosyal medya hesaplarına erişebilir. 3D dünyadaki nesnelerin bir kısmıyla gerçekçi bir etkileşime girebilir.
 
 ## Hedef Kitle:
 Gizem, macera ve bulmaca oyunları oynamayı seven, 15 yaşından büyük insanlar.
@@ -155,7 +156,6 @@ Sprint Board: https://trello.com/b/FXkxbaS4/sprint-2
 
 
 
-
 ## Sprint Review
 -3 boyutlu dünyanın oluşturulması
 
@@ -179,5 +179,73 @@ Sprint Board: https://trello.com/b/FXkxbaS4/sprint-2
 
 -Sonraki sprintte daha yoğun çalışılmasına karar verildi.
 
+# Sprint 3
+Tamamlanması gereken puan 170.
+
+Tamamlanan puan 170.
+
+Takım içindeki görev dağılımın değişmesiyle ilgili karar alınmıştır.
+
+**Daily Scrum**: İlk hafta 2 günde bir, ikinci hafta her gün discord üzerinde toplanılmasına karar verildi.
+
+Görseller:
+
+![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/abbc2b05-c960-4a13-afa4-a80070f5c0af)
+
+![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/97a652e9-0f48-4c2a-bcf1-2cc0e1fc6e02)
+
+![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/c25acfb8-05d0-4e8d-8b1e-82bc3a34570d)
+
+![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/509fdffd-6e39-4723-ab06-4b8043aed414)
+
+![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/2390a930-8828-40cf-8a53-ebb774c666ea)
+
+![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/502abe05-475c-4911-a0dc-cc9d07c468d7)
+
+![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/416c6ff4-971c-418b-928e-33680699add0)
+
+![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/e5218c7e-3dfa-4b41-b665-3833089b86a5)
+
+![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/86216d65-3f68-4a00-8793-2c259a1637fb)
+
+![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/cf25aeef-7d43-43f2-bed4-57f1b734992a)
 
 
+Sprint Board: https://trello.com/b/Vp64UREu/sprint-3
+
+![image](https://github.com/cscod/Akademi-Bootcamp/assets/85909788/de9ad8f0-280c-40da-b36d-32780be97ae9)
+
+
+# Sprint Review
+
+-3 Boyutlu dünyanın hazır hale getirilmesi
+
+-Telefonun hazır hale gelmesi
+
+-Save/Load sisteminin entegre edilmesi
+
+-API eklenmesi
+
+-PlayerStats Eklenmesi
+
+-Main menu, options, pause sisteminin oluşturulması
+
+-Bulmacaların ve hikayenin son halini alması
+
+-AI Ses kayıtlarının oluşturulması
+
+-Ses efektlerinin oyuna eklenmesi
+
+-Müzik eklenmesi
+
+-Cutscene ve diğer animasyonların oluşturulması
+
+-4 Farklı oyun bitiş senaryosunun entegre edilmesi
+
+-Tüm attribute'ların yer aldığı belgenin oluşturulması
+
+-Kullanılan tüm assetlerin linklerinin yer aldığı belgenin oluşturulması(attribute)
+
+# Sprint Retrospective
+
+-Takım üyelerinin günde 20 saat çalışması nedeniyle uyuyaması hususunun çözülmesi gerektiğine vurgu yapılmıştır.
